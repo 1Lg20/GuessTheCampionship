@@ -89,4 +89,4 @@ In caso di errore o di tempo scaduto la partita terminarà e bisognerà ricominc
 
 # Eseguire il Progrmma
 
-Per eseguire il programma è sufficiente eseguire il launcher relativa al prorio sistema operativo
+Per eseguire il programma è sufficiente eseguire il launcher relativo al prorio sistema operativo
