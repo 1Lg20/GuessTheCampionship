@@ -1,0 +1,21 @@
+campionatiList=[
+	"PremierLeague","Championship","Eredivise","Bundesliga2","Bundesliga","LaLiga","LaLiga2","LeagueofIreland","LigaPortugal","MLS","MLSNextPro","SerieA","SerieB","Ligue1","Ligue2"
+]
+
+campionati={
+	"PremierLeague":"Img/campionati/PremierLeague.png",
+	"Championship":"Img/campionati/Championship.png",
+	"Eredivise":"Img/campionati/Eredivise.png",
+	"Bundesliga2":"Img/campionati/2Bundesliga.png",
+	"Bundesliga":"Img/campionati/Bundesliga.png",
+	"LaLiga":"Img/campionati/LaLiga.png",
+	"LaLiga2":"Img/campionati/LaLiga2.png",
+	"LeagueofIreland":"Img/campionati/Leagueofireland.png",
+	"LigaPortugal":"Img/campionati/LigaPortugal.png",
+	"MLS":"Img/campionati/MLS.png",
+	"MLSNextPro":"Img/campionati/MLSNextPro.png",
+	"SerieA":"Img/campionati/SerieA.png",
+	"SerieB":"Img/campionati/SerieB.png",
+	"Ligue1":"Img/campionati/Ligue1.png",
+	"Ligue2":"Img/campionati/Ligue2.png",
+}
