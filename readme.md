@@ -1,4 +1,4 @@
-# Guess The Campionship
+# Guess The ampionship
 
 Guess the campionship è un gioco in python in cui bisona indovinare a quale campionato appartiene una squadra di calcio (dati aggiornati a settembre 2024)
 
@@ -87,4 +87,6 @@ In caso di errore o di tempo scaduto la partita terminarà e bisognerà ricominc
 
 - Ligue2 (Francia)
 
+# Eseguire il Progrmma
 
+Per eseguire il programma è sufficiente eseguire il launcher relativa al prorio sistema operativo
